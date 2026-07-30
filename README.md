@@ -7,11 +7,4 @@
 ### Target 目标
 - 🤔 I’m currently learning C# and Java 我目前正在研究C#和Java语言
 - 💬 You can contact me via email '2434740546@qq.com' 你可以通过邮箱 '2434740546@qq.com' 来联系我
-### My projects 我的项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mozi216&repo=GradeClient)](https://github.com/Mozi216/GradeClient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mozi216&repo=Bright-MinecraftLauncher)](https://github.com/Mozi216/Bright-MinecraftLauncher)
-### Most used languages 使用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozi216)
-### My gitHub stats 我的star情况
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozi216&show_icons=true)
 
